@@ -1,4 +1,4 @@
-namespace snff.bl.metal;
+namespace snff.bl.metal
 using System.Threading.Tasks;
 
 

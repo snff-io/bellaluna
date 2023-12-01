@@ -1,7 +1,7 @@
 using System.Threading.Tasks;
 using Openmetrics;
 
-namespace snff.bl.metal;
+namespace snff.bl.metal
 
 public class Thunk<T>
 {
