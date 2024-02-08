@@ -1,0 +1,8028 @@
+iching:
+  hexagrams:
+    '000000':
+      binary: '000000'
+      bottomTrigram: 2
+      character: "\u4DC1"
+      chineseName: "\u5764"
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      names:
+      - Field
+      - The Receptive
+      number: 2
+      pinyinName: "k\u016Bn"
+      topTrigram: 2
+    '000001':
+      binary: '000001'
+      bottomTrigram: 3
+      character: "\u4DD7"
+      chineseName: "\u5FA9"
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      names:
+      - Returning
+      - Return (The Turning Point)
+      number: 24
+      pinyinName: "f\xF9"
+      topTrigram: 2
+    '000010':
+      binary: '000010'
+      bottomTrigram: 4
+      character: "\u4DC6"
+      chineseName: "\u5E2B"
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      names:
+      - Leading
+      - The Army
+      number: 7
+      pinyinName: "sh\u012B"
+      topTrigram: 2
+    '000011':
+      binary: '000011'
+      bottomTrigram: 8
+      character: "\u4DD2"
+      chineseName: "\u81E8"
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      names:
+      - Nearing
+      - Approach
+      number: 19
+      pinyinName: "l\xEDn"
+      topTrigram: 2
+    '000100':
+      binary: '000100'
+      bottomTrigram: 5
+      character: "\u4DCE"
+      chineseName: "\u8B19"
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      names:
+      - Humbling
+      - Modesty
+      number: 15
+      pinyinName: "qi\u0101n"
+      topTrigram: 2
+    '000101':
+      binary: '000101'
+      bottomTrigram: 7
+      character: "\u4DE3"
+      chineseName: "\u660E\u5937"
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      names:
+      - Darkening of the Light
+      number: 36
+      pinyinName: "m\xEDng y\xED"
+      topTrigram: 2
+    '000110':
+      binary: '000110'
+      bottomTrigram: 6
+      character: "\u4DED"
+      chineseName: "\u5347"
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      names:
+      - Ascending
+      - Pushing Upward
+      number: 46
+      pinyinName: "sh\u0113ng"
+      topTrigram: 2
+    '000111':
+      binary: '000111'
+      bottomTrigram: 1
+      character: "\u4DCA"
+      chineseName: "\u6CF0"
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      names:
+      - Pervading
+      - Peace
+      number: 11
+      pinyinName: "t\xE0i"
+      topTrigram: 2
+    '001000':
+      binary: '001000'
+      bottomTrigram: 2
+      character: "\u4DCF"
+      chineseName: "\u8C6B"
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      names:
+      - Providing-For
+      - Enthusiasm
+      number: 16
+      pinyinName: "y\xF9"
+      topTrigram: 3
+    '001001':
+      binary: '001001'
+      bottomTrigram: 3
+      character: "\u4DF2"
+      chineseName: "\u9707"
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      names:
+      - Shake
+      - The Arousing (Shock, Thunder)
+      number: 51
+      pinyinName: "zh\xE8n"
+      topTrigram: 3
+    '001010':
+      binary: '001010'
+      bottomTrigram: 4
+      character: "\u4DE7"
+      chineseName: "\u89E3"
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      names:
+      - Taking-Apart
+      - Deliverance
+      number: 40
+      pinyinName: "xi\xE8"
+      topTrigram: 3
+    '001011':
+      binary: '001011'
+      bottomTrigram: 8
+      character: "\u4DF5"
+      chineseName: "\u6B78\u59B9"
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      names:
+      - Converting the Maiden
+      - The Marrying Maiden
+      number: 54
+      pinyinName: "gu\u012B m\xE8i"
+      topTrigram: 3
+    '001100':
+      binary: '001100'
+      bottomTrigram: 5
+      character: "\u4DFD"
+      chineseName: "\u5C0F\u904E"
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      names:
+      - Small Exceeding
+      - Preponderance of the Small
+      number: 62
+      pinyinName: "xi\u01CEo gu\xF2"
+      topTrigram: 3
+    '001101':
+      binary: '001101'
+      bottomTrigram: 7
+      character: "\u4DF6"
+      chineseName: "\u8C50"
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      names:
+      - Abouding
+      - Abundance [Fullness]
+      number: 55
+      pinyinName: "f\u0113ng"
+      topTrigram: 3
+    '001110':
+      binary: '001110'
+      bottomTrigram: 6
+      character: "\u4DDF"
+      chineseName: "\u6046"
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      names:
+      - Persevering
+      - Duration
+      number: 32
+      pinyinName: "h\xE9ng"
+      topTrigram: 3
+    '001111':
+      binary: '001111'
+      bottomTrigram: 1
+      character: "\u4DE1"
+      chineseName: "\u5927\u58EF"
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      names:
+      - Great Invigorating
+      - The Power of the Great
+      number: 34
+      pinyinName: "d\xE0 zhu\xE0ng"
+      topTrigram: 3
+    '010000':
+      binary: '010000'
+      bottomTrigram: 2
+      character: "\u4DC7"
+      chineseName: "\u6BD4"
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      names:
+      - Grouping
+      - Holding Together [Union]
+      number: 8
+      pinyinName: "b\u01D0"
+      topTrigram: 4
+    '010001':
+      binary: '010001'
+      bottomTrigram: 3
+      character: "\u4DC2"
+      chineseName: "\u5C6F"
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      names:
+      - Sprouting
+      - Difficulty at the Beginning
+      number: 3
+      pinyinName: "zh\u016Bn"
+      topTrigram: 4
+    '010010':
+      binary: '010010'
+      bottomTrigram: 4
+      character: "\u4DDC"
+      chineseName: "\u574E"
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      names:
+      - Gorge
+      - The Abysmal (Water)
+      number: 29
+      pinyinName: "k\u01CEn"
+      topTrigram: 4
+    '010011':
+      binary: '010011'
+      bottomTrigram: 8
+      character: "\u4DFB"
+      chineseName: "\u7BC0"
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      names:
+      - Articulating
+      - Limitation
+      number: 60
+      pinyinName: "ji\xE9"
+      topTrigram: 4
+    '010100':
+      binary: '010100'
+      bottomTrigram: 5
+      character: "\u4DE6"
+      chineseName: "\u8E47"
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      names:
+      - Limping
+      - Obstruction
+      number: 39
+      pinyinName: "ji\u01CEn"
+      topTrigram: 4
+    '010101':
+      binary: '010101'
+      bottomTrigram: 7
+      character: "\u4DFE"
+      chineseName: "\u65E2\u6FDF"
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      names:
+      - Already Fording
+      - After Completion
+      number: 63
+      pinyinName: "j\xEC j\xEC"
+      topTrigram: 4
+    '010110':
+      binary: '010110'
+      bottomTrigram: 6
+      character: "\u4DEF"
+      chineseName: "\u4E95"
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      names:
+      - Welling
+      - The Well
+      number: 48
+      pinyinName: "j\u01D0ng"
+      topTrigram: 4
+    '010111':
+      binary: '010111'
+      bottomTrigram: 1
+      character: "\u4DC4"
+      chineseName: "\u9700"
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      names:
+      - Attending
+      - Waiting
+      number: 5
+      pinyinName: "x\u016B"
+      topTrigram: 4
+    '011000':
+      binary: '011000'
+      bottomTrigram: 2
+      character: "\u4DEC"
+      chineseName: "\u8403"
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      names:
+      - Clustering
+      - Gathering Together [Massing]
+      number: 45
+      pinyinName: "cu\xEC"
+      topTrigram: 8
+    '011001':
+      binary: '011001'
+      bottomTrigram: 3
+      character: "\u4DD0"
+      chineseName: "\u96A8"
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      names:
+      - Following
+      number: 17
+      pinyinName: "su\xED"
+      topTrigram: 8
+    '011010':
+      binary: '011010'
+      bottomTrigram: 4
+      character: "\u4DEE"
+      chineseName: "\u56F0"
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      names:
+      - Confining
+      - Oppression (Exhaustion)
+      number: 47
+      pinyinName: "k\xF9n"
+      topTrigram: 8
+    '011011':
+      binary: '011011'
+      bottomTrigram: 8
+      character: "\u4DF9"
+      chineseName: "\u514C"
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      names:
+      - Open
+      - The Joyous, Lake
+      number: 58
+      pinyinName: "du\xEC"
+      topTrigram: 8
+    '011100':
+      binary: '011100'
+      bottomTrigram: 5
+      character: "\u4DDE"
+      chineseName: "\u54B8"
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      names:
+      - Conjoining
+      - Influence (Wooing)
+      number: 31
+      pinyinName: "xi\xE1n"
+      topTrigram: 8
+    '011101':
+      binary: '011101'
+      bottomTrigram: 7
+      character: "\u4DF0"
+      chineseName: "\u9769"
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      names:
+      - Skinning
+      - Revolution (Molting)
+      number: 49
+      pinyinName: "g\xE9"
+      topTrigram: 8
+    '011110':
+      binary: '011110'
+      bottomTrigram: 6
+      character: "\u4DDB"
+      chineseName: "\u5927\u904E"
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      names:
+      - Great Exceeding
+      - Preponderance of the Great
+      number: 28
+      pinyinName: "d\xE0 gu\xF2"
+      topTrigram: 8
+    '011111':
+      binary: '011111'
+      bottomTrigram: 1
+      character: "\u4DEA"
+      chineseName: "\u592C"
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      names:
+      - Displacement
+      - Break-through (Resoluteness)
+      number: 43
+      pinyinName: "gu\xE0i"
+      topTrigram: 8
+    '100000':
+      binary: '100000'
+      bottomTrigram: 2
+      character: "\u4DD6"
+      chineseName: "\u525D"
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      names:
+      - Stripping
+      - Splitting Apart
+      number: 23
+      pinyinName: "b\u014D"
+      topTrigram: 5
+    '100001':
+      binary: '100001'
+      bottomTrigram: 3
+      character: "\u4DDA"
+      chineseName: "\u9824"
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      names:
+      - Swallowing
+      - The Corners of the Mouth (Providing Nourishment)
+      number: 27
+      pinyinName: "y\xED"
+      topTrigram: 5
+    '100010':
+      binary: '100010'
+      bottomTrigram: 4
+      character: "\u4DC3"
+      chineseName: "\u8499"
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      names:
+      - Enveloping
+      - Youthful Folly
+      number: 4
+      pinyinName: "m\xE9ng"
+      topTrigram: 5
+    '100011':
+      binary: '100011'
+      bottomTrigram: 8
+      character: "\u4DE8"
+      chineseName: "\u640D"
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      names:
+      - Diminishing
+      - Decrease
+      number: 41
+      pinyinName: "s\u01D4n"
+      topTrigram: 5
+    '100100':
+      binary: '100100'
+      bottomTrigram: 5
+      character: "\u4DF3"
+      chineseName: "\u826E"
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      names:
+      - Bound
+      - Keeping Still, Mountain
+      number: 52
+      pinyinName: "g\xE8n"
+      topTrigram: 5
+    '100101':
+      binary: '100101'
+      bottomTrigram: 7
+      character: "\u4DD5"
+      chineseName: "\u8CC1"
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      names:
+      - Adorning
+      - Grace
+      number: 22
+      pinyinName: "b\xEC"
+      topTrigram: 5
+    '100110':
+      binary: '100110'
+      bottomTrigram: 6
+      character: "\u4DD1"
+      chineseName: "\u8831"
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      names:
+      - Correcting
+      - Work on What Has Been Spoiled [Decay]
+      number: 18
+      pinyinName: "g\u01D4"
+      topTrigram: 5
+    '100111':
+      binary: '100111'
+      bottomTrigram: 1
+      character: "\u4DD9"
+      chineseName: "\u5927\u755C"
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      names:
+      - Great Accumulating
+      - The Taming Power of the Great
+      number: 26
+      pinyinName: "d\xE0 ch\xF9"
+      topTrigram: 5
+    '101000':
+      binary: '101000'
+      bottomTrigram: 2
+      character: "\u4DE2"
+      chineseName: "\u6649"
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      names:
+      - Prospering
+      - Progress
+      number: 35
+      pinyinName: "j\xECn"
+      topTrigram: 7
+    '101001':
+      binary: '101001'
+      bottomTrigram: 3
+      character: "\u4DD4"
+      chineseName: "\u566C\u55D1"
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      names:
+      - Gnawing Bite
+      - Biting Through
+      number: 21
+      pinyinName: "sh\xEC k\xE8"
+      topTrigram: 7
+    '101010':
+      binary: '101010'
+      bottomTrigram: 4
+      character: "\u4DFF"
+      chineseName: "\u672A\u6FDF"
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      names:
+      - Not Yet Fording
+      - Before Completion
+      number: 64
+      pinyinName: "w\xE8i j\xEC"
+      topTrigram: 7
+    '101011':
+      binary: '101011'
+      bottomTrigram: 8
+      character: "\u4DE5"
+      chineseName: "\u777D"
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      names:
+      - Polarizing
+      - Opposition
+      number: 38
+      pinyinName: "ku\xED"
+      topTrigram: 7
+    '101100':
+      binary: '101100'
+      bottomTrigram: 5
+      character: "\u4DF7"
+      chineseName: "\u65C5"
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      names:
+      - Sojourning
+      - The Wanderer
+      number: 56
+      pinyinName: "l\u01DA"
+      topTrigram: 7
+    '101101':
+      binary: '101101'
+      bottomTrigram: 7
+      character: "\u4DDD"
+      chineseName: "\u96E2"
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      names:
+      - Radiance
+      - The Clinging, Fire
+      number: 30
+      pinyinName: "l\xED"
+      topTrigram: 7
+    '101110':
+      binary: '101110'
+      bottomTrigram: 6
+      character: "\u4DF1"
+      chineseName: "\u9F0E"
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      names:
+      - Holding
+      - The Caldron
+      number: 50
+      pinyinName: "d\u01D0ng"
+      topTrigram: 7
+    '101111':
+      binary: '101111'
+      bottomTrigram: 1
+      character: "\u4DCD"
+      chineseName: "\u5927\u6709"
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      names:
+      - Great Possessing
+      - Possession in Great Measure
+      number: 14
+      pinyinName: "d\xE0 y\u01D2u"
+      topTrigram: 7
+    '110000':
+      binary: '110000'
+      bottomTrigram: 2
+      character: "\u4DD3"
+      chineseName: "\u89C0"
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      names:
+      - Viewing
+      - Contemplation (View)
+      number: 20
+      pinyinName: "gu\u0101n"
+      topTrigram: 6
+    '110001':
+      binary: '110001'
+      bottomTrigram: 3
+      character: "\u4DE9"
+      chineseName: "\u76CA"
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      names:
+      - Augmenting
+      - Increase
+      number: 42
+      pinyinName: "y\xEC"
+      topTrigram: 6
+    '110010':
+      binary: '110010'
+      bottomTrigram: 4
+      character: "\u4DFA"
+      chineseName: "\u6E19"
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      names:
+      - Dispersing
+      - Dispersion [Dissolution]
+      number: 59
+      pinyinName: "hu\xE0n"
+      topTrigram: 6
+    '110011':
+      binary: '110011'
+      bottomTrigram: 8
+      character: "\u4DFC"
+      chineseName: "\u4E2D\u5B5A"
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      names:
+      - Center Returing
+      - Inner Truth
+      number: 61
+      pinyinName: "zh\u014Dng f\xFA"
+      topTrigram: 6
+    '110100':
+      binary: '110100'
+      bottomTrigram: 5
+      character: "\u4DF4"
+      chineseName: "\u6F38"
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      names:
+      - Infiltrating
+      - Development (Gradual Progress)
+      number: 53
+      pinyinName: "ji\xE0n"
+      topTrigram: 6
+    '110101':
+      binary: '110101'
+      bottomTrigram: 7
+      character: "\u4DE4"
+      chineseName: "\u5BB6\u4EBA"
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      names:
+      - Dwelling People
+      - The Family [The Clan]
+      number: 37
+      pinyinName: "ji\u0101 r\xE9n"
+      topTrigram: 6
+    '110110':
+      binary: '110110'
+      bottomTrigram: 6
+      character: "\u4DF8"
+      chineseName: "\u5DFD"
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      names:
+      - Ground
+      - The Gentle (The Penetrating, Wind)
+      number: 57
+      pinyinName: "x\xF9n"
+      topTrigram: 6
+    '110111':
+      binary: '110111'
+      bottomTrigram: 1
+      character: "\u4DC8"
+      chineseName: "\u5C0F\u755C"
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      names:
+      - Small Accumulating
+      - The Taming Power of the Small
+      number: 9
+      pinyinName: "xi\u01CEo ch\xF9"
+      topTrigram: 6
+    '111000':
+      binary: '111000'
+      bottomTrigram: 2
+      character: "\u4DCB"
+      chineseName: "\u5426"
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      names:
+      - Obstruction
+      - Standstill (Stagnation)
+      number: 12
+      pinyinName: "p\u01D0"
+      topTrigram: 1
+    '111001':
+      binary: '111001'
+      bottomTrigram: 3
+      character: "\u4DD8"
+      chineseName: "\u7121\u5984"
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      names:
+      - Without Embroiling
+      - Innocence (The Unexpected)
+      number: 25
+      pinyinName: "w\xFA w\xE0ng"
+      topTrigram: 1
+    '111010':
+      binary: '111010'
+      bottomTrigram: 4
+      character: "\u4DC5"
+      chineseName: "\u8A1F"
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      names:
+      - Arguing
+      - Conflict
+      number: 6
+      pinyinName: "s\xF2ng"
+      topTrigram: 1
+    '111011':
+      binary: '111011'
+      bottomTrigram: 8
+      character: "\u4DC9"
+      chineseName: "\u5C65"
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      names:
+      - Treading
+      - Conduct
+      number: 10
+      pinyinName: "l\u01DA"
+      topTrigram: 1
+    '111100':
+      binary: '111100'
+      bottomTrigram: 5
+      character: "\u4DE0"
+      chineseName: "\u906F"
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      names:
+      - Retiring
+      - Retreat
+      number: 33
+      pinyinName: "d\xF9n"
+      topTrigram: 1
+    '111101':
+      binary: '111101'
+      bottomTrigram: 7
+      character: "\u4DCC"
+      chineseName: "\u540C\u4EBA"
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      names:
+      - Concording People
+      - Fellowship with Men
+      number: 13
+      pinyinName: "t\xF3ng r\xE9n"
+      topTrigram: 1
+    '111110':
+      binary: '111110'
+      bottomTrigram: 6
+      character: "\u4DEB"
+      chineseName: "\u59E4"
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      names:
+      - Coupling
+      - Coming to Meet
+      number: 44
+      pinyinName: "g\xF2u"
+      topTrigram: 1
+    '111111':
+      binary: '111111'
+      bottomTrigram: 1
+      character: "\u4DC0"
+      chineseName: "\u4E7E"
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      names:
+      - Force
+      - The Creative
+      number: 1
+      pinyinName: "qi\xE1n"
+      topTrigram: 1
+  nonagrams:
+    '000001010':
+      binary: '000001010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 75
+      pinyinName: ''
+      topTrigram: 0
+    '000001011':
+      binary: '000001011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 76
+      pinyinName: ''
+      topTrigram: 0
+    '000001100':
+      binary: '000001100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 77
+      pinyinName: ''
+      topTrigram: 0
+    '000001101':
+      binary: '000001101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 78
+      pinyinName: ''
+      topTrigram: 0
+    '000001110':
+      binary: '000001110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 79
+      pinyinName: ''
+      topTrigram: 0
+    '000001111':
+      binary: '000001111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 80
+      pinyinName: ''
+      topTrigram: 0
+    '000010001':
+      binary: '000010001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 82
+      pinyinName: ''
+      topTrigram: 0
+    '000010011':
+      binary: '000010011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 84
+      pinyinName: ''
+      topTrigram: 0
+    '000010100':
+      binary: '000010100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 85
+      pinyinName: ''
+      topTrigram: 0
+    '000010101':
+      binary: '000010101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 86
+      pinyinName: ''
+      topTrigram: 0
+    '000010110':
+      binary: '000010110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 87
+      pinyinName: ''
+      topTrigram: 0
+    '000010111':
+      binary: '000010111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 88
+      pinyinName: ''
+      topTrigram: 0
+    '000011001':
+      binary: '000011001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 90
+      pinyinName: ''
+      topTrigram: 0
+    '000011010':
+      binary: '000011010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 91
+      pinyinName: ''
+      topTrigram: 0
+    '000011100':
+      binary: '000011100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 93
+      pinyinName: ''
+      topTrigram: 0
+    '000011101':
+      binary: '000011101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 94
+      pinyinName: ''
+      topTrigram: 0
+    '000011110':
+      binary: '000011110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 95
+      pinyinName: ''
+      topTrigram: 0
+    '000011111':
+      binary: '000011111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 96
+      pinyinName: ''
+      topTrigram: 0
+    '000100001':
+      binary: '000100001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 98
+      pinyinName: ''
+      topTrigram: 0
+    '000100010':
+      binary: '000100010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 99
+      pinyinName: ''
+      topTrigram: 0
+    '000100011':
+      binary: '000100011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 100
+      pinyinName: ''
+      topTrigram: 0
+    '000100101':
+      binary: '000100101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 102
+      pinyinName: ''
+      topTrigram: 0
+    '000100110':
+      binary: '000100110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 103
+      pinyinName: ''
+      topTrigram: 0
+    '000100111':
+      binary: '000100111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 104
+      pinyinName: ''
+      topTrigram: 0
+    '000101001':
+      binary: '000101001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 106
+      pinyinName: ''
+      topTrigram: 0
+    '000101010':
+      binary: '000101010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 107
+      pinyinName: ''
+      topTrigram: 0
+    '000101011':
+      binary: '000101011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 108
+      pinyinName: ''
+      topTrigram: 0
+    '000101100':
+      binary: '000101100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 109
+      pinyinName: ''
+      topTrigram: 0
+    '000101110':
+      binary: '000101110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 111
+      pinyinName: ''
+      topTrigram: 0
+    '000101111':
+      binary: '000101111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 112
+      pinyinName: ''
+      topTrigram: 0
+    '000110001':
+      binary: '000110001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 114
+      pinyinName: ''
+      topTrigram: 0
+    '000110010':
+      binary: '000110010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 115
+      pinyinName: ''
+      topTrigram: 0
+    '000110011':
+      binary: '000110011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 116
+      pinyinName: ''
+      topTrigram: 0
+    '000110100':
+      binary: '000110100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 117
+      pinyinName: ''
+      topTrigram: 0
+    '000110101':
+      binary: '000110101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 118
+      pinyinName: ''
+      topTrigram: 0
+    '000110111':
+      binary: '000110111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 120
+      pinyinName: ''
+      topTrigram: 0
+    '000111001':
+      binary: '000111001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 122
+      pinyinName: ''
+      topTrigram: 0
+    '000111010':
+      binary: '000111010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 123
+      pinyinName: ''
+      topTrigram: 0
+    '000111011':
+      binary: '000111011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 124
+      pinyinName: ''
+      topTrigram: 0
+    '000111100':
+      binary: '000111100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 125
+      pinyinName: ''
+      topTrigram: 0
+    '000111101':
+      binary: '000111101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 126
+      pinyinName: ''
+      topTrigram: 0
+    '000111110':
+      binary: '000111110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 127
+      pinyinName: ''
+      topTrigram: 0
+    '001000010':
+      binary: '001000010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 131
+      pinyinName: ''
+      topTrigram: 1
+    '001000011':
+      binary: '001000011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 132
+      pinyinName: ''
+      topTrigram: 1
+    '001000100':
+      binary: '001000100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 133
+      pinyinName: ''
+      topTrigram: 1
+    '001000101':
+      binary: '001000101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 134
+      pinyinName: ''
+      topTrigram: 1
+    '001000110':
+      binary: '001000110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 135
+      pinyinName: ''
+      topTrigram: 1
+    '001000111':
+      binary: '001000111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 136
+      pinyinName: ''
+      topTrigram: 1
+    '001010000':
+      binary: '001010000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 145
+      pinyinName: ''
+      topTrigram: 1
+    '001010011':
+      binary: '001010011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 148
+      pinyinName: ''
+      topTrigram: 1
+    '001010100':
+      binary: '001010100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 149
+      pinyinName: ''
+      topTrigram: 1
+    '001010101':
+      binary: '001010101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 150
+      pinyinName: ''
+      topTrigram: 1
+    '001010110':
+      binary: '001010110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 151
+      pinyinName: ''
+      topTrigram: 1
+    '001010111':
+      binary: '001010111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 152
+      pinyinName: ''
+      topTrigram: 1
+    '001011000':
+      binary: '001011000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 153
+      pinyinName: ''
+      topTrigram: 1
+    '001011010':
+      binary: '001011010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 155
+      pinyinName: ''
+      topTrigram: 1
+    '001011100':
+      binary: '001011100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 157
+      pinyinName: ''
+      topTrigram: 1
+    '001011101':
+      binary: '001011101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 158
+      pinyinName: ''
+      topTrigram: 1
+    '001011110':
+      binary: '001011110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 159
+      pinyinName: ''
+      topTrigram: 1
+    '001011111':
+      binary: '001011111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 160
+      pinyinName: ''
+      topTrigram: 1
+    '001100000':
+      binary: '001100000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 161
+      pinyinName: ''
+      topTrigram: 1
+    '001100010':
+      binary: '001100010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 163
+      pinyinName: ''
+      topTrigram: 1
+    '001100011':
+      binary: '001100011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 164
+      pinyinName: ''
+      topTrigram: 1
+    '001100101':
+      binary: '001100101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 166
+      pinyinName: ''
+      topTrigram: 1
+    '001100110':
+      binary: '001100110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 167
+      pinyinName: ''
+      topTrigram: 1
+    '001100111':
+      binary: '001100111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 168
+      pinyinName: ''
+      topTrigram: 1
+    '001101000':
+      binary: '001101000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 169
+      pinyinName: ''
+      topTrigram: 1
+    '001101010':
+      binary: '001101010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 171
+      pinyinName: ''
+      topTrigram: 1
+    '001101011':
+      binary: '001101011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 172
+      pinyinName: ''
+      topTrigram: 1
+    '001101100':
+      binary: '001101100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 173
+      pinyinName: ''
+      topTrigram: 1
+    '001101110':
+      binary: '001101110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 175
+      pinyinName: ''
+      topTrigram: 1
+    '001101111':
+      binary: '001101111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 176
+      pinyinName: ''
+      topTrigram: 1
+    '001110000':
+      binary: '001110000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 177
+      pinyinName: ''
+      topTrigram: 1
+    '001110010':
+      binary: '001110010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 179
+      pinyinName: ''
+      topTrigram: 1
+    '001110011':
+      binary: '001110011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 180
+      pinyinName: ''
+      topTrigram: 1
+    '001110100':
+      binary: '001110100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 181
+      pinyinName: ''
+      topTrigram: 1
+    '001110101':
+      binary: '001110101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 182
+      pinyinName: ''
+      topTrigram: 1
+    '001110111':
+      binary: '001110111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 184
+      pinyinName: ''
+      topTrigram: 1
+    '001111000':
+      binary: '001111000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 185
+      pinyinName: ''
+      topTrigram: 1
+    '001111010':
+      binary: '001111010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 187
+      pinyinName: ''
+      topTrigram: 1
+    '001111011':
+      binary: '001111011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 188
+      pinyinName: ''
+      topTrigram: 1
+    '001111100':
+      binary: '001111100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 189
+      pinyinName: ''
+      topTrigram: 1
+    '001111101':
+      binary: '001111101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 190
+      pinyinName: ''
+      topTrigram: 1
+    '001111110':
+      binary: '001111110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 191
+      pinyinName: ''
+      topTrigram: 1
+    '010000001':
+      binary: '010000001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 194
+      pinyinName: ''
+      topTrigram: 2
+    '010000011':
+      binary: '010000011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 196
+      pinyinName: ''
+      topTrigram: 2
+    '010000100':
+      binary: '010000100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 197
+      pinyinName: ''
+      topTrigram: 2
+    '010000101':
+      binary: '010000101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 198
+      pinyinName: ''
+      topTrigram: 2
+    '010000110':
+      binary: '010000110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 199
+      pinyinName: ''
+      topTrigram: 2
+    '010000111':
+      binary: '010000111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 200
+      pinyinName: ''
+      topTrigram: 2
+    '010001000':
+      binary: '010001000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 201
+      pinyinName: ''
+      topTrigram: 2
+    '010001011':
+      binary: '010001011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 204
+      pinyinName: ''
+      topTrigram: 2
+    '010001100':
+      binary: '010001100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 205
+      pinyinName: ''
+      topTrigram: 2
+    '010001101':
+      binary: '010001101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 206
+      pinyinName: ''
+      topTrigram: 2
+    '010001110':
+      binary: '010001110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 207
+      pinyinName: ''
+      topTrigram: 2
+    '010001111':
+      binary: '010001111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 208
+      pinyinName: ''
+      topTrigram: 2
+    '010011000':
+      binary: '010011000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 217
+      pinyinName: ''
+      topTrigram: 2
+    '010011001':
+      binary: '010011001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 218
+      pinyinName: ''
+      topTrigram: 2
+    '010011100':
+      binary: '010011100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 221
+      pinyinName: ''
+      topTrigram: 2
+    '010011101':
+      binary: '010011101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 222
+      pinyinName: ''
+      topTrigram: 2
+    '010011110':
+      binary: '010011110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 223
+      pinyinName: ''
+      topTrigram: 2
+    '010011111':
+      binary: '010011111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 224
+      pinyinName: ''
+      topTrigram: 2
+    '010100000':
+      binary: '010100000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 225
+      pinyinName: ''
+      topTrigram: 2
+    '010100001':
+      binary: '010100001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 226
+      pinyinName: ''
+      topTrigram: 2
+    '010100011':
+      binary: '010100011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 228
+      pinyinName: ''
+      topTrigram: 2
+    '010100101':
+      binary: '010100101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 230
+      pinyinName: ''
+      topTrigram: 2
+    '010100110':
+      binary: '010100110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 231
+      pinyinName: ''
+      topTrigram: 2
+    '010100111':
+      binary: '010100111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 232
+      pinyinName: ''
+      topTrigram: 2
+    '010101000':
+      binary: '010101000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 233
+      pinyinName: ''
+      topTrigram: 2
+    '010101001':
+      binary: '010101001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 234
+      pinyinName: ''
+      topTrigram: 2
+    '010101011':
+      binary: '010101011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 236
+      pinyinName: ''
+      topTrigram: 2
+    '010101100':
+      binary: '010101100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 237
+      pinyinName: ''
+      topTrigram: 2
+    '010101110':
+      binary: '010101110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 239
+      pinyinName: ''
+      topTrigram: 2
+    '010101111':
+      binary: '010101111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 240
+      pinyinName: ''
+      topTrigram: 2
+    '010110000':
+      binary: '010110000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 241
+      pinyinName: ''
+      topTrigram: 2
+    '010110001':
+      binary: '010110001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 242
+      pinyinName: ''
+      topTrigram: 2
+    '010110011':
+      binary: '010110011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 244
+      pinyinName: ''
+      topTrigram: 2
+    '010110100':
+      binary: '010110100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 245
+      pinyinName: ''
+      topTrigram: 2
+    '010110101':
+      binary: '010110101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 246
+      pinyinName: ''
+      topTrigram: 2
+    '010110111':
+      binary: '010110111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 248
+      pinyinName: ''
+      topTrigram: 2
+    '010111000':
+      binary: '010111000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 249
+      pinyinName: ''
+      topTrigram: 2
+    '010111001':
+      binary: '010111001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 250
+      pinyinName: ''
+      topTrigram: 2
+    '010111011':
+      binary: '010111011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 252
+      pinyinName: ''
+      topTrigram: 2
+    '010111100':
+      binary: '010111100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 253
+      pinyinName: ''
+      topTrigram: 2
+    '010111101':
+      binary: '010111101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 254
+      pinyinName: ''
+      topTrigram: 2
+    '010111110':
+      binary: '010111110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 255
+      pinyinName: ''
+      topTrigram: 2
+    '011000001':
+      binary: '011000001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 258
+      pinyinName: ''
+      topTrigram: 3
+    '011000010':
+      binary: '011000010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 259
+      pinyinName: ''
+      topTrigram: 3
+    '011000100':
+      binary: '011000100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 261
+      pinyinName: ''
+      topTrigram: 3
+    '011000101':
+      binary: '011000101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 262
+      pinyinName: ''
+      topTrigram: 3
+    '011000110':
+      binary: '011000110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 263
+      pinyinName: ''
+      topTrigram: 3
+    '011000111':
+      binary: '011000111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 264
+      pinyinName: ''
+      topTrigram: 3
+    '011001000':
+      binary: '011001000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 265
+      pinyinName: ''
+      topTrigram: 3
+    '011001010':
+      binary: '011001010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 267
+      pinyinName: ''
+      topTrigram: 3
+    '011001100':
+      binary: '011001100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 269
+      pinyinName: ''
+      topTrigram: 3
+    '011001101':
+      binary: '011001101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 270
+      pinyinName: ''
+      topTrigram: 3
+    '011001110':
+      binary: '011001110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 271
+      pinyinName: ''
+      topTrigram: 3
+    '011001111':
+      binary: '011001111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 272
+      pinyinName: ''
+      topTrigram: 3
+    '011010000':
+      binary: '011010000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 273
+      pinyinName: ''
+      topTrigram: 3
+    '011010001':
+      binary: '011010001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 274
+      pinyinName: ''
+      topTrigram: 3
+    '011010100':
+      binary: '011010100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 277
+      pinyinName: ''
+      topTrigram: 3
+    '011010101':
+      binary: '011010101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 278
+      pinyinName: ''
+      topTrigram: 3
+    '011010110':
+      binary: '011010110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 279
+      pinyinName: ''
+      topTrigram: 3
+    '011010111':
+      binary: '011010111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 280
+      pinyinName: ''
+      topTrigram: 3
+    '011100000':
+      binary: '011100000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 289
+      pinyinName: ''
+      topTrigram: 3
+    '011100001':
+      binary: '011100001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 290
+      pinyinName: ''
+      topTrigram: 3
+    '011100010':
+      binary: '011100010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 291
+      pinyinName: ''
+      topTrigram: 3
+    '011100101':
+      binary: '011100101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 294
+      pinyinName: ''
+      topTrigram: 3
+    '011100110':
+      binary: '011100110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 295
+      pinyinName: ''
+      topTrigram: 3
+    '011100111':
+      binary: '011100111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 296
+      pinyinName: ''
+      topTrigram: 3
+    '011101000':
+      binary: '011101000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 297
+      pinyinName: ''
+      topTrigram: 3
+    '011101001':
+      binary: '011101001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 298
+      pinyinName: ''
+      topTrigram: 3
+    '011101010':
+      binary: '011101010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 299
+      pinyinName: ''
+      topTrigram: 3
+    '011101100':
+      binary: '011101100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 301
+      pinyinName: ''
+      topTrigram: 3
+    '011101110':
+      binary: '011101110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 303
+      pinyinName: ''
+      topTrigram: 3
+    '011101111':
+      binary: '011101111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 304
+      pinyinName: ''
+      topTrigram: 3
+    '011110000':
+      binary: '011110000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 305
+      pinyinName: ''
+      topTrigram: 3
+    '011110001':
+      binary: '011110001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 306
+      pinyinName: ''
+      topTrigram: 3
+    '011110010':
+      binary: '011110010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 307
+      pinyinName: ''
+      topTrigram: 3
+    '011110100':
+      binary: '011110100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 309
+      pinyinName: ''
+      topTrigram: 3
+    '011110101':
+      binary: '011110101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 310
+      pinyinName: ''
+      topTrigram: 3
+    '011110111':
+      binary: '011110111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 312
+      pinyinName: ''
+      topTrigram: 3
+    '011111000':
+      binary: '011111000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 313
+      pinyinName: ''
+      topTrigram: 3
+    '011111001':
+      binary: '011111001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 314
+      pinyinName: ''
+      topTrigram: 3
+    '011111010':
+      binary: '011111010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 315
+      pinyinName: ''
+      topTrigram: 3
+    '011111100':
+      binary: '011111100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 317
+      pinyinName: ''
+      topTrigram: 3
+    '011111101':
+      binary: '011111101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 318
+      pinyinName: ''
+      topTrigram: 3
+    '011111110':
+      binary: '011111110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 319
+      pinyinName: ''
+      topTrigram: 3
+    '100000001':
+      binary: '100000001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 322
+      pinyinName: ''
+      topTrigram: 4
+    '100000010':
+      binary: '100000010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 323
+      pinyinName: ''
+      topTrigram: 4
+    '100000011':
+      binary: '100000011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 324
+      pinyinName: ''
+      topTrigram: 4
+    '100000101':
+      binary: '100000101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 326
+      pinyinName: ''
+      topTrigram: 4
+    '100000110':
+      binary: '100000110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 327
+      pinyinName: ''
+      topTrigram: 4
+    '100000111':
+      binary: '100000111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 328
+      pinyinName: ''
+      topTrigram: 4
+    '100001000':
+      binary: '100001000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 329
+      pinyinName: ''
+      topTrigram: 4
+    '100001010':
+      binary: '100001010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 331
+      pinyinName: ''
+      topTrigram: 4
+    '100001011':
+      binary: '100001011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 332
+      pinyinName: ''
+      topTrigram: 4
+    '100001101':
+      binary: '100001101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 334
+      pinyinName: ''
+      topTrigram: 4
+    '100001110':
+      binary: '100001110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 335
+      pinyinName: ''
+      topTrigram: 4
+    '100001111':
+      binary: '100001111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 336
+      pinyinName: ''
+      topTrigram: 4
+    '100010000':
+      binary: '100010000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 337
+      pinyinName: ''
+      topTrigram: 4
+    '100010001':
+      binary: '100010001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 338
+      pinyinName: ''
+      topTrigram: 4
+    '100010011':
+      binary: '100010011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 340
+      pinyinName: ''
+      topTrigram: 4
+    '100010101':
+      binary: '100010101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 342
+      pinyinName: ''
+      topTrigram: 4
+    '100010110':
+      binary: '100010110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 343
+      pinyinName: ''
+      topTrigram: 4
+    '100010111':
+      binary: '100010111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 344
+      pinyinName: ''
+      topTrigram: 4
+    '100011000':
+      binary: '100011000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 345
+      pinyinName: ''
+      topTrigram: 4
+    '100011001':
+      binary: '100011001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 346
+      pinyinName: ''
+      topTrigram: 4
+    '100011010':
+      binary: '100011010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 347
+      pinyinName: ''
+      topTrigram: 4
+    '100011101':
+      binary: '100011101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 350
+      pinyinName: ''
+      topTrigram: 4
+    '100011110':
+      binary: '100011110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 351
+      pinyinName: ''
+      topTrigram: 4
+    '100011111':
+      binary: '100011111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 352
+      pinyinName: ''
+      topTrigram: 4
+    '100101000':
+      binary: '100101000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 361
+      pinyinName: ''
+      topTrigram: 4
+    '100101001':
+      binary: '100101001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 362
+      pinyinName: ''
+      topTrigram: 4
+    '100101010':
+      binary: '100101010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 363
+      pinyinName: ''
+      topTrigram: 4
+    '100101011':
+      binary: '100101011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 364
+      pinyinName: ''
+      topTrigram: 4
+    '100101110':
+      binary: '100101110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 367
+      pinyinName: ''
+      topTrigram: 4
+    '100101111':
+      binary: '100101111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 368
+      pinyinName: ''
+      topTrigram: 4
+    '100110000':
+      binary: '100110000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 369
+      pinyinName: ''
+      topTrigram: 4
+    '100110001':
+      binary: '100110001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 370
+      pinyinName: ''
+      topTrigram: 4
+    '100110010':
+      binary: '100110010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 371
+      pinyinName: ''
+      topTrigram: 4
+    '100110011':
+      binary: '100110011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 372
+      pinyinName: ''
+      topTrigram: 4
+    '100110101':
+      binary: '100110101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 374
+      pinyinName: ''
+      topTrigram: 4
+    '100110111':
+      binary: '100110111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 376
+      pinyinName: ''
+      topTrigram: 4
+    '100111000':
+      binary: '100111000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 377
+      pinyinName: ''
+      topTrigram: 4
+    '100111001':
+      binary: '100111001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 378
+      pinyinName: ''
+      topTrigram: 4
+    '100111010':
+      binary: '100111010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 379
+      pinyinName: ''
+      topTrigram: 4
+    '100111011':
+      binary: '100111011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 380
+      pinyinName: ''
+      topTrigram: 4
+    '100111101':
+      binary: '100111101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 382
+      pinyinName: ''
+      topTrigram: 4
+    '100111110':
+      binary: '100111110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 383
+      pinyinName: ''
+      topTrigram: 4
+    '101000001':
+      binary: '101000001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 386
+      pinyinName: ''
+      topTrigram: 5
+    '101000010':
+      binary: '101000010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 387
+      pinyinName: ''
+      topTrigram: 5
+    '101000011':
+      binary: '101000011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 388
+      pinyinName: ''
+      topTrigram: 5
+    '101000100':
+      binary: '101000100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 389
+      pinyinName: ''
+      topTrigram: 5
+    '101000110':
+      binary: '101000110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 391
+      pinyinName: ''
+      topTrigram: 5
+    '101000111':
+      binary: '101000111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 392
+      pinyinName: ''
+      topTrigram: 5
+    '101001000':
+      binary: '101001000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 393
+      pinyinName: ''
+      topTrigram: 5
+    '101001010':
+      binary: '101001010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 395
+      pinyinName: ''
+      topTrigram: 5
+    '101001011':
+      binary: '101001011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 396
+      pinyinName: ''
+      topTrigram: 5
+    '101001100':
+      binary: '101001100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 397
+      pinyinName: ''
+      topTrigram: 5
+    '101001110':
+      binary: '101001110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 399
+      pinyinName: ''
+      topTrigram: 5
+    '101001111':
+      binary: '101001111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 400
+      pinyinName: ''
+      topTrigram: 5
+    '101010000':
+      binary: '101010000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 401
+      pinyinName: ''
+      topTrigram: 5
+    '101010001':
+      binary: '101010001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 402
+      pinyinName: ''
+      topTrigram: 5
+    '101010011':
+      binary: '101010011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 404
+      pinyinName: ''
+      topTrigram: 5
+    '101010100':
+      binary: '101010100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 405
+      pinyinName: ''
+      topTrigram: 5
+    '101010110':
+      binary: '101010110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 407
+      pinyinName: ''
+      topTrigram: 5
+    '101010111':
+      binary: '101010111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 408
+      pinyinName: ''
+      topTrigram: 5
+    '101011000':
+      binary: '101011000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 409
+      pinyinName: ''
+      topTrigram: 5
+    '101011001':
+      binary: '101011001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 410
+      pinyinName: ''
+      topTrigram: 5
+    '101011010':
+      binary: '101011010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 411
+      pinyinName: ''
+      topTrigram: 5
+    '101011100':
+      binary: '101011100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 413
+      pinyinName: ''
+      topTrigram: 5
+    '101011110':
+      binary: '101011110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 415
+      pinyinName: ''
+      topTrigram: 5
+    '101011111':
+      binary: '101011111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 416
+      pinyinName: ''
+      topTrigram: 5
+    '101100000':
+      binary: '101100000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 417
+      pinyinName: ''
+      topTrigram: 5
+    '101100001':
+      binary: '101100001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 418
+      pinyinName: ''
+      topTrigram: 5
+    '101100010':
+      binary: '101100010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 419
+      pinyinName: ''
+      topTrigram: 5
+    '101100011':
+      binary: '101100011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 420
+      pinyinName: ''
+      topTrigram: 5
+    '101100110':
+      binary: '101100110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 423
+      pinyinName: ''
+      topTrigram: 5
+    '101100111':
+      binary: '101100111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 424
+      pinyinName: ''
+      topTrigram: 5
+    '101110000':
+      binary: '101110000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 433
+      pinyinName: ''
+      topTrigram: 5
+    '101110001':
+      binary: '101110001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 434
+      pinyinName: ''
+      topTrigram: 5
+    '101110010':
+      binary: '101110010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 435
+      pinyinName: ''
+      topTrigram: 5
+    '101110011':
+      binary: '101110011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 436
+      pinyinName: ''
+      topTrigram: 5
+    '101110100':
+      binary: '101110100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 437
+      pinyinName: ''
+      topTrigram: 5
+    '101110111':
+      binary: '101110111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 440
+      pinyinName: ''
+      topTrigram: 5
+    '101111000':
+      binary: '101111000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 441
+      pinyinName: ''
+      topTrigram: 5
+    '101111001':
+      binary: '101111001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 442
+      pinyinName: ''
+      topTrigram: 5
+    '101111010':
+      binary: '101111010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 443
+      pinyinName: ''
+      topTrigram: 5
+    '101111011':
+      binary: '101111011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 444
+      pinyinName: ''
+      topTrigram: 5
+    '101111100':
+      binary: '101111100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 445
+      pinyinName: ''
+      topTrigram: 5
+    '101111110':
+      binary: '101111110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 447
+      pinyinName: ''
+      topTrigram: 5
+    '110000001':
+      binary: '110000001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 450
+      pinyinName: ''
+      topTrigram: 6
+    '110000010':
+      binary: '110000010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 451
+      pinyinName: ''
+      topTrigram: 6
+    '110000011':
+      binary: '110000011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 452
+      pinyinName: ''
+      topTrigram: 6
+    '110000100':
+      binary: '110000100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 453
+      pinyinName: ''
+      topTrigram: 6
+    '110000101':
+      binary: '110000101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 454
+      pinyinName: ''
+      topTrigram: 6
+    '110000111':
+      binary: '110000111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 456
+      pinyinName: ''
+      topTrigram: 6
+    '110001000':
+      binary: '110001000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 457
+      pinyinName: ''
+      topTrigram: 6
+    '110001010':
+      binary: '110001010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 459
+      pinyinName: ''
+      topTrigram: 6
+    '110001011':
+      binary: '110001011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 460
+      pinyinName: ''
+      topTrigram: 6
+    '110001100':
+      binary: '110001100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 461
+      pinyinName: ''
+      topTrigram: 6
+    '110001101':
+      binary: '110001101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 462
+      pinyinName: ''
+      topTrigram: 6
+    '110001111':
+      binary: '110001111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 464
+      pinyinName: ''
+      topTrigram: 6
+    '110010000':
+      binary: '110010000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 465
+      pinyinName: ''
+      topTrigram: 6
+    '110010001':
+      binary: '110010001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 466
+      pinyinName: ''
+      topTrigram: 6
+    '110010011':
+      binary: '110010011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 468
+      pinyinName: ''
+      topTrigram: 6
+    '110010100':
+      binary: '110010100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 469
+      pinyinName: ''
+      topTrigram: 6
+    '110010101':
+      binary: '110010101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 470
+      pinyinName: ''
+      topTrigram: 6
+    '110010111':
+      binary: '110010111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 472
+      pinyinName: ''
+      topTrigram: 6
+    '110011000':
+      binary: '110011000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 473
+      pinyinName: ''
+      topTrigram: 6
+    '110011001':
+      binary: '110011001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 474
+      pinyinName: ''
+      topTrigram: 6
+    '110011010':
+      binary: '110011010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 475
+      pinyinName: ''
+      topTrigram: 6
+    '110011100':
+      binary: '110011100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 477
+      pinyinName: ''
+      topTrigram: 6
+    '110011101':
+      binary: '110011101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 478
+      pinyinName: ''
+      topTrigram: 6
+    '110011111':
+      binary: '110011111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 480
+      pinyinName: ''
+      topTrigram: 6
+    '110100000':
+      binary: '110100000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 481
+      pinyinName: ''
+      topTrigram: 6
+    '110100001':
+      binary: '110100001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 482
+      pinyinName: ''
+      topTrigram: 6
+    '110100010':
+      binary: '110100010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 483
+      pinyinName: ''
+      topTrigram: 6
+    '110100011':
+      binary: '110100011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 484
+      pinyinName: ''
+      topTrigram: 6
+    '110100101':
+      binary: '110100101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 486
+      pinyinName: ''
+      topTrigram: 6
+    '110100111':
+      binary: '110100111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 488
+      pinyinName: ''
+      topTrigram: 6
+    '110101000':
+      binary: '110101000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 489
+      pinyinName: ''
+      topTrigram: 6
+    '110101001':
+      binary: '110101001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 490
+      pinyinName: ''
+      topTrigram: 6
+    '110101010':
+      binary: '110101010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 491
+      pinyinName: ''
+      topTrigram: 6
+    '110101011':
+      binary: '110101011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 492
+      pinyinName: ''
+      topTrigram: 6
+    '110101100':
+      binary: '110101100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 493
+      pinyinName: ''
+      topTrigram: 6
+    '110101111':
+      binary: '110101111'
+      bottomTrigram: 7
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 496
+      pinyinName: ''
+      topTrigram: 6
+    '110111000':
+      binary: '110111000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 505
+      pinyinName: ''
+      topTrigram: 6
+    '110111001':
+      binary: '110111001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 506
+      pinyinName: ''
+      topTrigram: 6
+    '110111010':
+      binary: '110111010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 507
+      pinyinName: ''
+      topTrigram: 6
+    '110111011':
+      binary: '110111011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 508
+      pinyinName: ''
+      topTrigram: 6
+    '110111100':
+      binary: '110111100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 7
+      names: []
+      number: 509
+      pinyinName: ''
+      topTrigram: 6
+    '110111101':
+      binary: '110111101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 7
+      names: []
+      number: 510
+      pinyinName: ''
+      topTrigram: 6
+    '111000001':
+      binary: '111000001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 514
+      pinyinName: ''
+      topTrigram: 7
+    '111000010':
+      binary: '111000010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 515
+      pinyinName: ''
+      topTrigram: 7
+    '111000011':
+      binary: '111000011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 516
+      pinyinName: ''
+      topTrigram: 7
+    '111000100':
+      binary: '111000100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 517
+      pinyinName: ''
+      topTrigram: 7
+    '111000101':
+      binary: '111000101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 0
+      names: []
+      number: 518
+      pinyinName: ''
+      topTrigram: 7
+    '111000110':
+      binary: '111000110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 0
+      names: []
+      number: 519
+      pinyinName: ''
+      topTrigram: 7
+    '111001000':
+      binary: '111001000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 521
+      pinyinName: ''
+      topTrigram: 7
+    '111001010':
+      binary: '111001010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 523
+      pinyinName: ''
+      topTrigram: 7
+    '111001011':
+      binary: '111001011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 524
+      pinyinName: ''
+      topTrigram: 7
+    '111001100':
+      binary: '111001100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 525
+      pinyinName: ''
+      topTrigram: 7
+    '111001101':
+      binary: '111001101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 1
+      names: []
+      number: 526
+      pinyinName: ''
+      topTrigram: 7
+    '111001110':
+      binary: '111001110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 1
+      names: []
+      number: 527
+      pinyinName: ''
+      topTrigram: 7
+    '111010000':
+      binary: '111010000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 529
+      pinyinName: ''
+      topTrigram: 7
+    '111010001':
+      binary: '111010001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 530
+      pinyinName: ''
+      topTrigram: 7
+    '111010011':
+      binary: '111010011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 532
+      pinyinName: ''
+      topTrigram: 7
+    '111010100':
+      binary: '111010100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 533
+      pinyinName: ''
+      topTrigram: 7
+    '111010101':
+      binary: '111010101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 2
+      names: []
+      number: 534
+      pinyinName: ''
+      topTrigram: 7
+    '111010110':
+      binary: '111010110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 2
+      names: []
+      number: 535
+      pinyinName: ''
+      topTrigram: 7
+    '111011000':
+      binary: '111011000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 537
+      pinyinName: ''
+      topTrigram: 7
+    '111011001':
+      binary: '111011001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 538
+      pinyinName: ''
+      topTrigram: 7
+    '111011010':
+      binary: '111011010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 539
+      pinyinName: ''
+      topTrigram: 7
+    '111011100':
+      binary: '111011100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 541
+      pinyinName: ''
+      topTrigram: 7
+    '111011101':
+      binary: '111011101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      middleTrigram: 3
+      names: []
+      number: 542
+      pinyinName: ''
+      topTrigram: 7
+    '111011110':
+      binary: '111011110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 3
+      names: []
+      number: 543
+      pinyinName: ''
+      topTrigram: 7
+    '111100000':
+      binary: '111100000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 545
+      pinyinName: ''
+      topTrigram: 7
+    '111100001':
+      binary: '111100001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 546
+      pinyinName: ''
+      topTrigram: 7
+    '111100010':
+      binary: '111100010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 547
+      pinyinName: ''
+      topTrigram: 7
+    '111100011':
+      binary: '111100011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 548
+      pinyinName: ''
+      topTrigram: 7
+    '111100101':
+      binary: '111100101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 4
+      names: []
+      number: 550
+      pinyinName: ''
+      topTrigram: 7
+    '111100110':
+      binary: '111100110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      - 0
+      middleTrigram: 4
+      names: []
+      number: 551
+      pinyinName: ''
+      topTrigram: 7
+    '111101000':
+      binary: '111101000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 553
+      pinyinName: ''
+      topTrigram: 7
+    '111101001':
+      binary: '111101001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 554
+      pinyinName: ''
+      topTrigram: 7
+    '111101010':
+      binary: '111101010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 555
+      pinyinName: ''
+      topTrigram: 7
+    '111101011':
+      binary: '111101011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      - 1
+      middleTrigram: 5
+      names: []
+      number: 556
+      pinyinName: ''
+      topTrigram: 7
+    '111101100':
+      binary: '111101100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 0
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 557
+      pinyinName: ''
+      topTrigram: 7
+    '111101110':
+      binary: '111101110'
+      bottomTrigram: 6
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 1
+      - 1
+      - 0
+      middleTrigram: 5
+      names: []
+      number: 559
+      pinyinName: ''
+      topTrigram: 7
+    '111110000':
+      binary: '111110000'
+      bottomTrigram: 0
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 561
+      pinyinName: ''
+      topTrigram: 7
+    '111110001':
+      binary: '111110001'
+      bottomTrigram: 1
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 0
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 562
+      pinyinName: ''
+      topTrigram: 7
+    '111110010':
+      binary: '111110010'
+      bottomTrigram: 2
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 563
+      pinyinName: ''
+      topTrigram: 7
+    '111110011':
+      binary: '111110011'
+      bottomTrigram: 3
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 0
+      - 1
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 564
+      pinyinName: ''
+      topTrigram: 7
+    '111110100':
+      binary: '111110100'
+      bottomTrigram: 4
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 0
+      middleTrigram: 6
+      names: []
+      number: 565
+      pinyinName: ''
+      topTrigram: 7
+    '111110101':
+      binary: '111110101'
+      bottomTrigram: 5
+      character: ''
+      chineseName: ''
+      lines:
+      - 1
+      - 1
+      - 1
+      - 1
+      - 1
+      - 0
+      - 1
+      - 0
+      - 1
+      middleTrigram: 6
+      names: []
+      number: 566
+      pinyinName: ''
+      topTrigram: 7
+  trigrams:
+    '000':
+      attribute: devoted, yielding
+      binary: '000'
+      character: "\u2637"
+      chineseImage: "\u5730"
+      chineseName: "\u5764"
+      familyRelationship: mother
+      images:
+      - earth
+      lines:
+      - 0
+      - 0
+      - 0
+      names:
+      - Field
+      - The Receptive
+      number: 2
+      pinyinImage: "d\xEC"
+      pinyinName: "k\u016Bn"
+    '001':
+      attribute: inciting movement
+      binary: '001'
+      character: "\u2633"
+      chineseImage: "\u96F7"
+      chineseName: "\u9707"
+      familyRelationship: first son
+      images:
+      - thunder
+      lines:
+      - 1
+      - 0
+      - 0
+      names:
+      - Shake
+      - The Arousing
+      number: 3
+      pinyinImage: "l\xE9i"
+      pinyinName: "zh\xE8n"
+    '010':
+      attribute: dangerous
+      binary: '010'
+      character: "\u2635"
+      chineseImage: "\u6C34"
+      chineseName: "\u574E"
+      familyRelationship: second son
+      images:
+      - water
+      lines:
+      - 0
+      - 1
+      - 0
+      names:
+      - Gorge
+      - The Abysmal
+      number: 4
+      pinyinImage: "shu\u01D0"
+      pinyinName: "k\u01CEn"
+    '011':
+      attribute: joyful
+      binary: '011'
+      character: "\u2631"
+      chineseImage: "\u6FA4"
+      chineseName: "\u514C"
+      familyRelationship: third daughter
+      images:
+      - swamp
+      - lake
+      lines:
+      - 1
+      - 1
+      - 0
+      names:
+      - Open
+      - The Joyous
+      number: 8
+      pinyinImage: "z\xE9"
+      pinyinName: "du\xEC"
+    '100':
+      attribute: resting
+      binary: '100'
+      character: "\u2636"
+      chineseImage: "\u5C71"
+      chineseName: "\u826E"
+      familyRelationship: third son
+      images:
+      - mountain
+      lines:
+      - 0
+      - 0
+      - 1
+      names:
+      - Bound
+      - Keeping Still
+      number: 5
+      pinyinImage: "sh\u0101n"
+      pinyinName: "g\xE8n"
+    '101':
+      attribute: light-giving
+      binary: '101'
+      character: "\u2632"
+      chineseImage: "\u706B"
+      chineseName: "\u96E2"
+      familyRelationship: second daughter
+      images:
+      - fire
+      lines:
+      - 1
+      - 0
+      - 1
+      names:
+      - Radiance
+      - The Clinging
+      number: 7
+      pinyinImage: "hu\u01D2"
+      pinyinName: "l\xED"
+    '110':
+      attribute: penetrating
+      binary: '110'
+      character: "\u2634"
+      chineseImage: "\u98A8"
+      chineseName: "\u5DFD"
+      familyRelationship: first daughter
+      images:
+      - wind
+      - wood
+      lines:
+      - 0
+      - 1
+      - 1
+      names:
+      - Ground
+      - The Gentle
+      number: 6
+      pinyinImage: "f\u0113ng"
+      pinyinName: "x\xF9n"
+    '111':
+      attribute: strong
+      binary: '111'
+      character: "\u2630"
+      chineseImage: "\u5929"
+      chineseName: "\u4E7E"
+      familyRelationship: father
+      images:
+      - heaven
+      lines:
+      - 1
+      - 1
+      - 1
+      names:
+      - Force
+      - The Creative
+      number: 1
+      pinyinImage: "ti\u0101n"
+      pinyinName: "qi\xE1n"
